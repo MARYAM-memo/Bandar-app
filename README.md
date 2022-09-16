@@ -13,9 +13,7 @@ This app was comleted after 12 days, and 2 day to localization...
 
 ![Screenshot_1662845312](https://user-images.githubusercontent.com/93387228/190828451-ab72ce62-4f80-4ef3-b05d-84c7e291e56e.png)
 ![Screenshot_1662845309](https://user-images.githubusercontent.com/93387228/190828455-298fa43e-00d9-4b82-8d8a-dab158a1270f.png)
-![Screenshot_1662845294](https://user-images.githubusercontent.com/93387228/190828456-05c0a464-3ca3-4061-8f77-902fcd807a2a.png)
 ![Screenshot_1662669413](https://user-images.githubusercontent.com/93387228/190828531-350acf15-3b33-454a-b372-c9cbf809c7f8.png)
-![Screenshot_1662842915](https://user-images.githubusercontent.com/93387228/190828464-e49c011d-60a7-41fd-a91a-f8732dffa529.png)
 ![Screenshot_1662840972](https://user-images.githubusercontent.com/93387228/190828466-5f482a7a-749f-4f3e-a240-a50d15ef401a.png)
 ![Screenshot_1662822194](https://user-images.githubusercontent.com/93387228/190828470-58d45327-03be-45dd-bf14-958eac325394.png)
 ![Screenshot_1662822186](https://user-images.githubusercontent.com/93387228/190828477-c90f8747-9073-4082-80ee-420994283d21.png)
